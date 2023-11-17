@@ -37,7 +37,7 @@ Provide instructions on how to install and set up your project locally. Include 
 git clone #linkof repo
 
 # Navigate to the project directory
-cd awesome-project
+cd My-portfolio
 
 # Install dependencies
 npm install
